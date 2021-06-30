@@ -1,8 +1,8 @@
 # Diretório de arquivos do [Curso Completo de PHP 7](https://www.udemy.com/course/curso-php-7-online/)  ![N|Solid](https://i2.wp.com/agenciawoobrasil.com.br/wp-content/uploads/2019/05/cursos-free-na-udemy.png)
 
 ## Features
-**  - Seção 2: Entendendo Controle de versão**  
-**  - Seção 3: Conhecendo a Linguagem PHP**  
+- **Seção 2: Entendendo Controle de versão**  
+- **Seção 3: Conhecendo a Linguagem PHP**  
 - Seção 4: Estruturas de Controle e Laços de repetição  
 - Seção 5: Arrays em PHP
 - Seção 6: Sessão no PHP 7
